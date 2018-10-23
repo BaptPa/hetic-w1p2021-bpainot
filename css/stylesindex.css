@@ -1,0 +1,16 @@
+.citation {
+    color: #2274A5;
+    opacity: 0.9;
+}
+.sourcecitation {
+    color: #72727d;
+}
+.début {
+    color: #7ed6d4;
+}
+.débutconseils {
+    color: #7ed6d4;
+}
+li {
+    display: inline-block
+ }
